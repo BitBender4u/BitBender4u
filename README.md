@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BitBender4u
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning c/c++ programming
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking forward to  know more and become a pro
 - 📫 How to reach me +254759438266
 
